@@ -65,7 +65,7 @@ h1 span {
   background: #703688;
 }
 .tabs .tab-content {
-  z-index: -2;
+  z-index: 2;
   display: none;
   overflow: hidden;
   width: 100%;
