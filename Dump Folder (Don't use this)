@@ -1,185 +1,183 @@
-New moves database: (needs value to be added, or be removed and modify the JS)
-
-<option value="- ">[Normal] Absorb Matter,/option>
-<option value="- ">[Normal]  Belly Drum</option>
-<option value="- ">[Normal]Boom Detonation </option>
-<option value="- ">[Normal] Cat Claw</option>
-<option value="- ">[Normal]Concealed Power </option>
-<option value="- ">[Normal]Curing Bell</option>
-<option value="- ">[Normal] Disable</option>
-<option value="- ">[Normal] Fury </option>
-<option value="- ">[Normal] Hibernate </option>
-<option value="- ">[Normal] Jump </option>
-<option value="- ">[Normal] Level Damage </option>
-<option value="- ">[Normal] Perish Song</option>
-<option value="- ">[Normal] Powernap </option>
-<option value="- ">[Normal] Regulator Wave </option>
-<option value="- ">[Normal] Reset </option>
-<option value="- ">[Normal] Rush</option>
-<option value="- ">[Normal] Shooting Stars </option>
-<option value="- ">[Normal] Slack Off</option>
-<option value="- ">[Normal] Sleep Talk</option>
-<option value="- ">[Normal] Sleeping Kick</option>
-<option value="- ">[Normal] Substitute</option>
-<option value="- ">[Normal] Sweet Melody</option>
-<option value="- ">[Normal] Tail Slam </option>
-<option value="- ">[Normal] Unnatural</option>
-<option value="- ">[Normal] Wish</option>
-<option value="- ">[Normal] Wolf Whistle </option>
-<option value="- ">[Fighting] Brutal Uppercut </option>
-<option value="- ">[Fighting] Dazzling Punch</option>
-<option value="- ">[Fighting] Disarm</option>
-<option value="- ">[Fighting] Energy Fist </option>
-<option value="- ">[Fighting] Sleeping Punch</option>
-<option value="- ">[Fighting] Sliding Kick </option>
-<option value="- ">[Fighting] Strengthen </option>
-<option value="- ">[Fighting] Tornado Kick</option>
-<option value="- ">[Fighting] Tornado Punch </option>
-<option value="- ">[Fire] Cleanse </option>
-<option value="- ">[Fire] Fiery Spell </option>
-<option value="- ">[Fire] Fire Breath </option>
-<option value="- ">[Fire] Flaming Fist </option>
-<option value="- ">[Fire] Hellfire </option>
-<option value="- ">[Fire] Ignite</option>
-<option value="- ">[Fire] Nitro Crash </option>
-<option value="- ">[Fire] Nova Sword </option>
-<option value="- ">[Fire] Phoenix To Ashes </option>
-<option value="- ">[Fire] Rekindle </option>
-<option value="- ">[Fire] War Cry</option>
-<option value="- ">[Water] Abyssal Slash </option>
-<option value="- ">[Water] Aquatic Surge </option>
-<option value="- ">[Water] Harsh Current</option>
-<option value="- ">[Water] Misty Blast </option>
-<option value="- ">[Water] Ocean</option>
-<option value="- ">[Water] Tidal Wave</option>
-<option value="- ">[Water] Torrential Crash </option>
-<option value="- ">[Water] Undercurrent </option>
-<option value="- ">[Water] Wash Away</option>
-<option value="- ">[Grass] Canopy </option>
-<option value="- ">[Grass] Chlorobeam </option>
-<option value="- ">[Grass] Flower Fang </option>
-<option value="- "><option value="- ">[Grass] Forest Call </option>
-<option value="- ">[Grass] Grass Blade </option>
-<option value="- ">[Grass] Leaf Purge</option>
-<option value="- ">[Grass] Leaf Turbine</option>
-<option value="- ">[Grass] Leaf Turn</option>
-<option value="- ">[Grass] leech seed</option>
-<option value="- ">[Grass] Meadow</option>
-<option value="- ">[Grass] Mower </option>
-<option value="- ">[Grass] Pesticide </option>
-<option value="- ">[Grass] Vine Guard</option>
-<option value="- ">[Electric] Electroflash </option>
-<option value="- ">[Electric] Energy Draw </option>
-<option value="- ">[Electric] Lightning Strike </option>
-<option value="- ">[Electric] Recharge </option>
-<option value="- ">[Electric] Sap</option>
-<option value="- ">[Electric] Shocker </option>
-<option value="- ">[Electric] Tesla Shield </option>
-<option value="- ">[Electric] Thunder Wave</option>
-<option value="- ">[Electric] Weak Shock </option>
-<option value="- ">[Flying] Air Blade </option>
-<option value="- ">[Flying] Birdsong </option>
-<option value="- ">[Flying]Chirp </option>
-<option value="- ">[Flying] Cyclone </option>
-<option value="- ">[Flying] Dive Bomb </option>
-<option value="- ">[Flying] Flutter </option>
-<option value="- ">[Flying] Nebulous Mist</option>
-<option value="- ">[Flying] Roost</option>
-<option value="- ">[Flying] Soar</option>
-<option value="- ">[Flying] Strong Gust </option>
-<option value="- ">[Flying] Tornado </option>
-<option value="- ">[Flying] Windsong </option>
-<option value="- ">[Flying] Wings Of Dawn </option>
-<option value="- ">[Flying] Volate - Phys</option>
-<option value="- ">[Rock] Fling Pebbles</option>
-<option value="- ">[Rock] Kinetic Rock </option>
-<option value="- ">[Rock] Landslide </option>
-<option value="- ">[Rock] Petrify </option>
-<option value="- ">[Rock] Quartz Spell </option>
-<option value="- ">[Ground] Desert</option>
-<option value="- ">[Ground] Force Of Nature </option>
-<option value="- ">[Ground] Mud Ball </option>
-<option value="- ">[Ground] Mud Blast </option>
-<option value="- ">[Ground] Mud Puddle </option>
-<option value="- ">[Ground] Sand Gust</option>
-<option value="- ">[Ground] Sand Shift </option>
-<option value="- ">[Poison] Corrode </option>
-<option value="- ">[Poison] Corrosive Acid </option>
-<option value="- ">[Poison] Pestilential Storm</option>
-<option value="- ">[Poison] Polluted Landscape</option>
-<option value="- ">[Poison] Syphon </option>
-<option value="- ">[Poison] Toxify </option>
-<option value="- ">[Poison] Venom Slash</option>
-<option value="- ">[Ice] Arctic Beam </option>
-<option value="- ">[Ice] Flash Freeze </option>
-<option value="- ">[Ice] Frozen Fist</option>
-<option value="- ">[Ice] Glacier</option>
-<option value="- ">[Ice] Icy Stalagmites</option>
-<option value="- ">[Steel] Iron Storm </option>
-<option value="- ">[Steel] Metal Slam </option>
-<option value="- ">[Steel] Mirror Guard </option>
-<option value="- ">[Steel] Pointy Tacks </option>
-<option value="- ">[Steel] Polish </option>
-<option value="- ">[Steel] Reboot</option>
-<option value="- ">[Steel] Rocket Slam </option>
-<option value="- ">[Steel] Shield </option>
-<option value="- ">[Steel] Sleepworks </option>
-<option value="- ">[Steel] Spring </option>
-<option value="- ">[Steel] Sword Slash</option>
-<option value="- ">[Steel] Titanium Defense</option>
-<option value="- ">[Fairy] Guardian Call </option>
-<option value="- ">[Fairy] Harpy Summon</option>
-<option value="- ">[Fairy] Healing Circle </option>
-<option value="- ">[Fairy] Light Fang</option>
-<option value="- ">[Fairy] Meteor Barrage</option>
-<option value="- ">[Fairy] Mystic Wave </option>
-<option value="- ">[Fairy] Nymph Burst</option>
-<option value="- ">[Fairy] Pixie Blast</option>
-<option value="- ">[Fairy] Pixie Storm</option>
-<option value="- ">[Fairy] Star Smash</option>
-<option value="- ">[Dragon] Curse Breaker </option>
-<option value="- ">[Dragon]Dragon Bite </option>
-<option value="- ">[Dragon] Dragon Fire </option>
-<option value="- ">[Dragon] Dragon Slam </option>
-<option value="- ">[Dragon] Dragon Smash </option>
-<option value="- ">[Dragon] Dragon's Summoning </option>
-<option value="- ">[Dragon] Sacred Surge</option>
-<option value="- ">[Dragon] Serpent Slash</option>
-<option value="- ">[Bug] Buzzer </option>
-<option value="- ">[Bug] Hive Hum </option>
-<option value="- ">[Bug] Horn Slam </option>
-<option value="- ">[Bug] Leech </option>
-<option value="- ">[Bug] Swift Swing</option>
-<option value="- ">[Dark] Coup De Grâce</option>
-<option value="- ">[Dark] Demon Fang</option>
-<option value="- ">[Dark] Dimension Bomb</option>
-<option value="- ">[Dark] Disorienting Blow</option>
-<option value="- ">[Dark] Dusk Bomb </option>
-<option value="- ">[Dark] Evil Stare</option>
-<option value="- ">[Dark] Health Sharing</option>
-<option value="- ">[Dark] Hiss </option>
-<option value="- ">[Dark] Peccate</option>
-<option value="- ">[Dark] Sleep Aura</option>
-<option value="- ">[Dark] Torment</option>
-<option value="- ">[Dark] Vampire's Bite </option>
-<option value="- ">[Dark] Void Breaker </option>
-<option value="- ">[Ghost] Cursed Winds</option>
-<option value="- ">[Ghost] Dreamwish </option>
-<option value="- ">[Ghost] Destiny Bond</option>
-<option value="- ">[Ghost] Soul Drain</option>
-<option value="- ">[Ghost] Soul Snatch </option>
-<option value="- ">[Ghost] Spectral Burst </option>
-<option value="- ">[Ghost] Wraith Fist </option>
-<option value="- ">[Psychic] Dreamshift </option>
-<option value="- ">[Psychic] Focus Mind </option>
-<option value="- ">[Psychic] Health Orbs </option>
-<option value="- ">[Psychic] Imprison</option>
-<option value="- ">[Psychic] Kinetic Slap </option>
-<option value="- ">[Psychic] Magic Coat</option>
-<option value="- ">[Psychic] Mindwipe</option>
-<option value="- ">[Psychic] Mirror Striker</option>
-<option value="- ">[Psychic] Polarity Barrier </option>
-<option value="- ">[Psychic] Psychosis</option>
-<option value="- ">[Psychic] Rest</option>
-<option value="- ">[Psychic] Shield Enchant</option>
-<option value="- ">[Psychic] Wizard Fist</option>
+<option>Absorb Matter,/option>
+<option>Belly Drum</option>
+<option>Boom Detonation </option>
+<option>Cat Claw</option>
+<option>Concealed Power </option>
+<option>Curing Bell</option>
+<option>Disable</option>
+<option>Fury </option>
+<option>Hibernate </option>
+<option>Jump </option>
+<option>Level Damage </option>
+<option>Perish Song</option>
+<option>Powernap </option>
+<option>Regulator Wave </option>
+<option>Reset </option>
+<option> Rush</option>
+<option>Shooting Stars </option>
+<option>Slack Off</option>
+<option>Sleep Talk</option>
+<option>Sleeping Kick</option>
+<option>Substitute</option>
+<option>Sweet Melody</option>
+<option>Tail Slam </option>
+<option>Unnatural</option>
+<option>Wish</option>
+<option>Wolf Whistle </option>
+<option>Brutal Uppercut </option>
+<option>Dazzling Punch</option>
+<option>Disarm</option>
+<option>Energy Fist </option>
+<option>Sleeping Punch</option>
+<option>Sliding Kick </option>
+<option>Strengthen </option>
+<option>Tornado Kick</option>
+<option>Tornado Punch </option>
+<option> Cleanse </option>
+<option>Fiery Spell </option>
+<option>Fire Breath </option>
+<option>Flaming Fist </option>
+<option>Hellfire </option>
+<option>Ignite</option>
+<option>Nitro Crash </option>
+<option>Nova Sword </option>
+<option>Phoenix To Ashes </option>
+<option>Rekindle </option>
+<option>War Cry</option>
+<option>Abyssal Slash </option>
+<option>Aquatic Surge </option>
+<option>Harsh Current</option>
+<option>Misty Blast </option>
+<option>Ocean</option>
+<option> Tidal Wave</option>
+<option>Torrential Crash </option>
+<option>Undercurrent </option>
+<option>Wash Away</option>
+<option>anopy </option>
+<option>Chlorobeam </option>
+<option>Flower Fang </option>
+<option>Forest Call </option>
+<option>Grass Blade </option>
+<option>Leaf Purge</option>
+<option>Leaf Turbine</option>
+<option>Leaf Turn</option>
+<option>leech seed</option>
+<option>Meadow</option>
+<option>Mower </option>
+<option>Some Stupid Grass Move</option>
+<option>Vine Guard</option>
+<option>Electroflash </option>
+<option>Energy Draw </option>
+<option>Lightning Strike </option>
+<option>Recharge </option>
+<option>Sap</option>
+<option>Shocker </option>
+<option>Tesla Shield </option>
+<option>Thunder Wave</option>
+<option>Weak Shock </option>
+<option>Air Blade </option>
+<option>Birdsong </option>
+<option>Chirp </option>
+<option>Cyclone </option>
+<option>Dive Bomb </option>
+<option>Flutter </option>
+<option>Nebulous Mist</option>
+<option>Roost</option>
+<option>Soar</option>
+<option>Strong Gust </option>
+<option>>Tornado </option>
+<option>Windsong </option>
+<option>Wings Of Dawn </option>
+<option>Volate - Phys</option>
+<option>Fling Pebbles</option>
+<option>Kinetic Rock </option>
+<option>Landslide </option>
+<option>Petrify </option>
+<option Spell </option>
+<option>Desert</option>
+<option>Force Of Nature </option>
+<option>Mud Ball </option>
+<option>Mud Blast </option>
+<option>Mud Puddle </option>
+<option>Sand Gust</option>
+<option>Sand Shift </option>
+<option>Corrode </option>
+<option>Corrosive Acid </option>
+<option>Pestilential Storm</option>
+<option>Polluted Landscape</option>
+<option>Syphon </option>
+<option>Toxify </option>
+<option> Venom Slash</option>
+<option>Arctic Beam </option>
+<option>Flash Freeze </option>
+<option>Frozen Fist</option>
+<option>lacier</option>
+<option>Icy Stalagmites</option>
+<option>Iron Storm </option>
+<option>Metal Slam </option>
+<option>Mirror Guard </option>
+<option>Pointy Tacks </option>
+<option>Polish </option>
+<option>Reboot</option>
+<option>Rocket Slam </option>
+<option>Shield </option>
+<option>Sleepworks </option>
+<option>Spring </option>
+<option>Sword Slash</option>
+<option>Titanium Defense</option>
+<option>Guardian Call </option>
+<option>Harpy Summon</option>
+<option>Healing Circle </option>
+<option>Light Fang</option>
+<option>Meteor Barrage</option>
+<option>Mystic Wave </option>
+<option>Nymph Burst</option>
+<option>Pixie Blast</option>
+<option>Pixie Storm</option>
+<option>Star Smash</option>
+<option>Curse Breaker </option>
+<option>Dragon Bite </option>
+<option>Dragon Fire </option>
+<option>Dragon Slam </option>
+<option>Dragon Smash </option>
+<option>Dragon's Summoning </option>
+<option>Sacred Surge</option>
+<option>Serpent Slash</option>
+<option>Buzzer </option>
+<option>Hive Hum </option>
+<option>Horn Slam </option>
+<option>Leech </option>
+<option>Swift Swing</option>
+<option> Coup De Grâce</option>
+<option>Demon Fang</option>
+<option>Dimension Bomb</option>
+<option>Disorienting Blow</option>
+<option>Dusk Bomb </option>
+<option>Evil Stare</option>
+<option>Health Sharing</option>
+<option>Hiss </option>
+<option>Peccate</option>
+<option>Sleep Aura</option>
+<option>Torment</option>
+<option>Vampire's Bite </option>
+<option>Void Breaker </option>
+<option>Cursed Winds</option>
+<option>Dreamwish </option>
+<option> Destiny Bond</option>
+<option>Soul Drain</option>
+<option>Soul Snatch </option>
+<option>Spectral Burst </option>
+<option>Wraith Fist </option>
+<option>Dreamshift </option>
+<option>Focus Mind </option>
+<option>Health Orbs </option>
+<option>Imprison</option>
+<option>Kinetic Slap </option>
+<option>Magic Coat</option>
+<option>Mindwipe</option>
+<option>Mirror Striker</option>
+<option>Polarity Barrier </option>
+<option> Psychosis</option>
+<option>Rest</option>
+<option>Shield Enchant</option>
+<option>Wizard Fist</option>
