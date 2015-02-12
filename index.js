@@ -1,6 +1,6 @@
 //Code for modifying selections in tab-content based on pokemon selected (work in progress won't be finished for awhile, but will be a big upgrade when finishe )
-$('#BAMDEXSEARCH1').click(function() {
-  var p1 = $("#bammon1 option:selected").val();
+//$('#BAMDEXSEARCH1').click(function() {
+//  var p1 = $("#bammon1 option:selected").val();
   //this is a big change may try forking it so I can add it in there and make that beta version. I just want the importable perfect by alpha release anyways
 
 
